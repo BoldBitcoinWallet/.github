@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ This is Bold, Your Superior Bitoin Wallet
+🙋‍♀️ This is Bold, Your Superior Bitcoin Wallet
 
 🌈 Contribution guidelines - we'll share our discord soon, you can hit us from there
 
