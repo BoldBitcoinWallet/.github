@@ -2,7 +2,9 @@
 
 🙋‍♀️ This is Bold, Your Superior Bitcoin Wallet
 
-🌈 Contribution guidelines - we'll share our discord soon, you can hit us from there
+🌈 Contribute - https://discord.com/invite/p4ectmVtJ2
+
+🌐 On Nostr - https://iris.to/boldbtcwallet ( npub1w498gkr8vk47rd8tgpk4jetlnwvj2z3nnkjyqvndtkr2lum6wp9qwkal3g )
 
 👩‍💻 Useful resources - https://boldbitcoinwallet.com
 
