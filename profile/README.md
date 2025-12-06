@@ -1,7 +1,13 @@
-## Hey there 👋
-
 This is Bold, Your Superior Bitcoin Wallet
 
+- Bold is a special use case wallet, designed for those who don't want to trust funds on a single-sig hot wallet, but want the security of multi-sig.
+- Generate wallets and sign transactions with multiple devices remotely over Wifi or NOSTR.
+  
+- Mobile app: https://github.com/BoldBitcoinWallet/BoldWallet
+- Library with CLI to integrate into other apps : https://github.com/BoldBitcoinWallet/BoldWallet
+
+
+  
 **Contribute:** https://discord.com/invite/p4ectmVtJ2
 
 **On X:** https://x.com/boldbtcwallet
@@ -11,9 +17,5 @@ This is Bold, Your Superior Bitcoin Wallet
 **Over nostr-git:** https://gitworkshop.dev/boldbtcwallet@iris.to/boldwallet
 
 **Our Website:** https://boldbitcoinwallet.com
-
-🍿 Fun facts - what does your mind feel about being statless, or about your bitcoin wallet even going seedless and serverless!
-
-🧙 Remember, you can do HODL your mighty satoshis in your Superior Bold Way 
 
 ![image](https://github.com/user-attachments/assets/7b4621d1-c898-4062-bdde-9ebe05fd80c4)
