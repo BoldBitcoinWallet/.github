@@ -4,6 +4,8 @@ This is Bold, Your Superior Bitcoin Wallet
 
 **Contribute:** https://discord.com/invite/p4ectmVtJ2
 
+**On X:** https://x.com/boldbtcwallet
+
 **On Nostr:** https://iris.to/boldbtcwallet *npub1w498gkr8vk47rd8tgpk4jetlnwvj2z3nnkjyqvndtkr2lum6wp9qwkal3g*
 
 **Over nostr-git:** https://gitworkshop.dev/boldbtcwallet@iris.to/boldwallet
