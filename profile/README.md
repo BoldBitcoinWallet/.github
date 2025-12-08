@@ -4,7 +4,7 @@ This is Bold, Your Superior Bitcoin Wallet
 - Generate wallets and sign transactions with multiple devices remotely over Wifi or NOSTR.
   
 - Mobile app: https://github.com/BoldBitcoinWallet/BoldWallet
-- Library with CLI to integrate into other apps : https://github.com/BoldBitcoinWallet/BoldWallet
+- Library with CLI to integrate into other apps : [https://github.com/BoldBitcoinWallet/BBMTLib](https://github.com/BoldBitcoinWallet/BBMTLib)
 
 
   
