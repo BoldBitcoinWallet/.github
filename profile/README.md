@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/7b4621d1-c898-4062-bdde-9ebe05fd80c4)
+
 This is Bold, Your Superior Bitcoin Wallet
 
 - Bold is a special use case wallet, designed for those who don't want to trust funds on a single-sig hot wallet, but want the security of multi-sig.
@@ -17,5 +19,3 @@ This is Bold, Your Superior Bitcoin Wallet
 **Over nostr-git:** https://gitworkshop.dev/boldbtcwallet@iris.to/boldwallet
 
 **Our Website:** https://boldbitcoinwallet.com
-
-![image](https://github.com/user-attachments/assets/7b4621d1-c898-4062-bdde-9ebe05fd80c4)
